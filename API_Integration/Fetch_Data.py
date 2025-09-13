@@ -3,8 +3,8 @@ import pandas as pd
 from sqlalchemy import create_engine
 import json
 
-DATABASE_URL = 'mysql+pymysql://root:root@localhost/tasks'
-WEBHOOK_URL = 'https://sngc.bitrix24.in/rest/263/bhtt047scwxo379e/task.item.list.json'
+DATABASE_URL = 'mysql+pymysql://username:password@hostname/schema_name'
+WEBHOOK_URL = 'API URL'
 
 def fetch_all_tasks():
     start = 0
@@ -65,4 +65,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
