@@ -1,19 +1,13 @@
-# CRM Data Sync
+CRM Data Sync
 
 This Python script fetches leads data from a CRM API and stores it in a MySQL database.
 
-## Features
+Features
 
 - Connects to the CRM API using `requests`.
 - Stores data in MySQL with `SQLAlchemy`.
 - Handles nested data by converting dicts into JSON strings.
 - Uses environment variables for credentials.
 
-## Setup Instructions
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/crm-data-sync.git
-cd crm-data-sync
 
