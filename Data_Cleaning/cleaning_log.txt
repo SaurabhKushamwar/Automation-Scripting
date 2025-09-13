@@ -1,0 +1,16 @@
+
+📊 Data Cleaning Summary
+-------------------------
+Rows before cleaning : 1050
+Rows after cleaning  : 1000
+Duplicates removed   : 50
+
+Missing Amount values before : 208
+Missing Amount values after  : 0
+Missing values filled        : 208
+
+Invalid Dates before : 0
+Invalid Dates after  : 0
+Dates successfully fixed : 0
+
+✅ Clean file saved as clean_sales.xlsx
