@@ -1,4 +1,4 @@
-####Automation & Scripting in Data Analysis  
+###Automation & Scripting in Data Analysis  
 This repository contains **hands-on projects** for learning automation and scripting in data analysis using Python.  
 Each folder represents a project that solves a **real-world data problem** step by step.  
 
