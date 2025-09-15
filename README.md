@@ -9,7 +9,7 @@ Each folder represents a project that solves a **real-world data problem** step 
 - Remove duplicates, fix missing values, clean text  
 - Export clean dataset & summary log  
 
-### 3. API Integration (Upcoming)  
+### 2. API Integration (Upcoming)  
 - Connect with APIs (CRM, Finance, Weather, etc.)  
 - Fetch and store data in databases  
 
